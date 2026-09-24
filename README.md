@@ -205,6 +205,6 @@ The application will open in your browser.
 
 ## 👩‍💻 Author
 
-**Deepika Katika**
+**Katika Deepika**
 
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech – Computer Science Engineering
